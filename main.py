@@ -375,7 +375,7 @@ def show_app_selection():
             "This platform has transformed how we handle waste. We've reduced disposal costs 
             significantly and found new revenue streams through the exchange platform."
         </p>
-        <p class="author">— Ck257, CK Recycle Industries</p>
+        <p class="author">— chandraramakrishna Recycle Industries</p>
     </div>
     """, unsafe_allow_html=True)
     
